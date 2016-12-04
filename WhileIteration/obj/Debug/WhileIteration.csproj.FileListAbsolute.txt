@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Desktop\CS-Code\Lesson_11\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\bkilkenney\Desktop\CS-Code\Lesson_11\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\bkilkenney\Desktop\CS-Code\Lesson_11\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\bkilkenney\Desktop\CS-Code\Lesson_11\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Desktop\CS-Code\Lesson_11\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\bkilkenney\Desktop\CS-Code\Lesson_11\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
